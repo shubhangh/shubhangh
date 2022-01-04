@@ -16,8 +16,6 @@ body {
 }
 .App {
   display: flex;
-  /* width: 100vw;
-  min-height: 100vh; */
 }
 nav {
   width: 20%;
@@ -345,29 +343,12 @@ mark {
   font-weight: bolder;
 }
 .port_out {
-  /* position: absolute; */
   width: 38%;
   height: 30%;
   border-radius: 10px;
 }
-/* .port1 {
-  top: 18%;
-  left: 10%;
-}
-.port2 {
-  top: 18%;
-  left: 53%;
-}
-.port3 {
-  top: 58%;
-  left: 10%;
-}
-.port4 {
-  top: 58%;
-  left: 53%;
-} */
+
 .port_in {
-  /* position: absolute; */
   width: 93%;
   height: 89%;
   margin: 3% 3%;
@@ -726,7 +707,7 @@ mark {
 
 .forgot-pass:hover a {
   text-decoration: underline;
-} /*forgot-pass:hover a{text-decoration: underline}button{margin: 15px 0;width: 100%;height: 50px;color: #000;font-size: 18px;font-weight: 60 background: #dde1e7;border: none;outline: nocursor: pointer;border-radius: 25px;box-shadow: 2px 2px 5px #babecc,-5px -5px 10px #ffffff73;}*/
+}
 
 button {
   margin: 15px 90px;
