@@ -50,36 +50,6 @@ class Portfolio extends Component {
               </div>
             );
           })}
-          {/* <div class="port_out port2">
-            <div class="port_in">
-              <a
-                href="https://www.shubhangh.com/funGame/index.html"
-                target="_blank"
-              >
-                <img src={projTwo} className="po1" alt="projTwo"></img>
-              </a>
-            </div>
-          </div> */}
-          {/* <div class="port_out port3">
-            <div class="port_in">
-              <a
-                href="https://www.shubhangh.com/redux-contact-app/index.html"
-                target="_blank"
-              >
-                <img src={projThree} className="po1" alt="projThree"></img>
-              </a>
-            </div>
-          </div> */}
-          {/* <div class="port_out port4">
-            <div class="port_in">
-              <a
-                href="https://play.google.com/store/apps/details?id=com.score.calci"
-                target="_blank"
-              >
-                <img src={projFour} className="po1" alt="projFour"></img>
-              </a>
-            </div>
-          </div> */}
         </div>
       </div>
     );
